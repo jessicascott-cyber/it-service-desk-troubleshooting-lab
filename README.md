@@ -42,6 +42,7 @@ This project documents hands-on IT support troubleshooting using a Windows 11 vi
 The `tickets/` directory contains the Windows login failure incident ticket, `INC-001-windows-login-failure.md`.
 
 The ticket documents the investigation, relevant authentication events, findings, and recommended response actions.
+The [`network-connectivity-diagnostics.md`](network-connectivity-diagnostics.md) report documents network connectivity, DNS resolution, and network path testing.
 
 ## Key Takeaways
 
