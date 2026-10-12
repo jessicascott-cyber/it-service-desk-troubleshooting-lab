@@ -53,8 +53,9 @@ The [`network-connectivity-diagnostics.md`](network-connectivity-diagnostics.md)
 
 ## Evidence
 
-Screenshots of the troubleshooting activities are saved locally in the project's `screenshots/` folder. They can be added to this repository later.
+Supporting screenshots are available in the [`screenshots/`](screenshots/) folder. They document the Windows troubleshooting activities and provide visual evidence of the commands, system checks, and diagnostic results recorded during this lab.
 
+Screenshots were reviewed for potentially sensitive information before publication.
 ## Scope and Limitations
 
 This is a controlled home lab, not a production environment. Results reflect the system's state at the time of testing and do not establish the cause of every potential system issue. No root cause was confirmed for the previously observed unexpected shutdown.
